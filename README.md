@@ -1,2 +1,2 @@
-# Top-Down Stealth Thing
-A WIP top-down stealth thing made in Godot
+# Top-Down Open World
+A WIP top-down open world thing made in Godot
